@@ -28,6 +28,15 @@ QA & Test Automation Engineer with a passion for software quality, automation, a
 ![TestNG](https://img.shields.io/badge/TestNG-EA2027?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+### API Testing
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST_Assured-16A085?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-00599C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 
 
