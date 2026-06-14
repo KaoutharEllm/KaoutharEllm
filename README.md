@@ -3,7 +3,10 @@
   
 ## Hi, I'm Kaouthar EL ALLAM
 
-### QA Engineer | Test Automation | API Testing
+#### QA & Test Automation Engineer – ISTQB Certified 
+
+##### Performance Testing | Security Testing | API Testing | Defect Management
+
 
 <img src="https://skillicons.dev/icons?i=java,git,github,docker,jenkins" />
 
