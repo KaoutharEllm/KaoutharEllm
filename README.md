@@ -1,6 +1,12 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaoutharEllm&show_icons=true&theme=github_dark" />
-</p>
+<div align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+# Hi, I'm Kaouthar EL ALLAM
+
+### QA Engineer | Test Automation | API Testing
+
+<img src="https://skillicons.dev/icons?i=java,git,github,docker,jenkins" />
+
+</div>
 
 <!--
 **KaoutharEllm/KaoutharEllm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
