@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220" alt="Developer GIF"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Developer GIF"/>
 
 # Hi, I'm *Kaouthar EL ALLAM*
 
