@@ -1,12 +1,6 @@
-<div align="center">
-
-# Hi, I'm Kaouthar EL ALLAM
-
-### QA Engineer | Test Automation | API Testing
-
-<img src="https://skillicons.dev/icons?i=java,git,github,docker,jenkins" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true" />
+</p>
 
 <!--
 **KaoutharEllm/KaoutharEllm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
