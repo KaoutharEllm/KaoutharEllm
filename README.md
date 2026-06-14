@@ -1,3 +1,6 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG..." width="300"/>
 # Hi, I'm Kaouthar EL ALLAM 
 
 <!--
