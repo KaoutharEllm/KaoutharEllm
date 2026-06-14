@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="Developer GIF"/>
+# Hi, I'm Kaouthar EL ALLAM
 
-# Hi, I'm *Kaouthar EL ALLAM*
+### QA Engineer | Test Automation | API Testing
+
+<img src="https://skillicons.dev/icons?i=java,git,github,docker,jenkins" />
+
+</div>
 
 <!--
 **KaoutharEllm/KaoutharEllm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
