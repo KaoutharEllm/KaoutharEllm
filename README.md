@@ -7,10 +7,6 @@
 
 ##### Performance Testing | Security Testing | API Testing | Defect Management
 
-
-<img src="https://skillicons.dev/icons?i=java,git,github,docker,jenkins" />
-
-
 </div>
 
 ---
@@ -86,9 +82,9 @@ QA & Test Automation Engineer with a passion for software quality, automation, a
 
 ## Contact Me 
 
-Email: kaoutharelallam01@gmail.com
+**Email:** kaoutharelallam01@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/kaouthar-el-allam-54115b265/
+**LinkedIn:** https://www.linkedin.com/in/kaouthar-el-allam-54115b265/
 
 
 
