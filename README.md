@@ -60,7 +60,9 @@ QA & Test Automation Engineer with a passion for software quality, automation, a
 
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-DC3545?style=for-the-badge)
+![XSS](https://img.shields.io/badge/XSS-FF9800?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF-4CAF50?style=for-the-badge)
 
 ---
 
