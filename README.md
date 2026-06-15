@@ -69,17 +69,20 @@ QA & Test Automation Engineer with a passion for software quality, automation, a
 ### Certifications 
 
 
-![ISTQB](https://img.shields.io/badge/ISTQB_CTFL-Certified-blue?style=for-the-badge)
+## 📜 Certifications
 
-![RobotF ramework](https://img.shields.io/badge/Robot_Framework_with_Python_-_Selenium/API_ Automation_Testing-Udemy-black?style=for-the-badge)
+🏅 **ISTQB® Certified Tester Foundation Level (CTFL)** – GASQ (2026)
 
-![Test Automation](https://img.shields.io/badge/Test_Automation_Foundations-LinkedIn_Learning-0A66C2?style=for-the-badge)
+🤖 **Robot Framework with Python – Selenium/API Automation Testing** – Udemy (2026)
 
-![Bug Writing](https://img.shields.io/badge/Bug_Writing_&_Management-LinkedIn_Learning-0A66C2?style=for-the-badge)
+🐞 **Software Testing Foundations: Bug Writing and Management** – LinkedIn Learning (2026)
 
-![Scrum](https://img.shields.io/badge/Scrum-LinkedIn_Learning-0A66C2?style=for-the-badge)
+⚙️ **Test Automation Foundations** – LinkedIn Learning (2025)
 
-![Software Testing QA](https://img.shields.io/badge/Software_Testing_QA-LinkedIn_Learning-0A66C2?style=for-the-badge)
+🔄 **Scrum Foundations** – LinkedIn Learning (2025)
+
+🧪 **Programming Foundations: Software Testing/QA** – LinkedIn Learning (2025)
+
 ---
 
 ## Contact Me 
