@@ -66,10 +66,9 @@ QA & Test Automation Engineer with a passion for software quality, automation, a
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### Certifications 
+---
 
-
-## 📜 Certifications
+## Certifications
 
 🏅 **ISTQB® Certified Tester Foundation Level (CTFL)** – GASQ (2026)
 
