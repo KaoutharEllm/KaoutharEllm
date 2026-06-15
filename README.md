@@ -71,7 +71,7 @@ QA & Test Automation Engineer with a passion for software quality, automation, a
 
 ![ISTQB](https://img.shields.io/badge/ISTQB_CTFL-Certified-blue?style=for-the-badge)
 
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-Udemy-black?style=for-the-badge)
+![Robot Framework with Python- Selenium/API Automation Testing](https://img.shields.io/badge/Robot_Framework-Udemy-black?style=for-the-badge)
 
 ![Test Automation](https://img.shields.io/badge/Test_Automation_Foundations-LinkedIn_Learning-0A66C2?style=for-the-badge)
 
